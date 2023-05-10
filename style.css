@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(243, 174, 197);
+   
+}
+p{
+    font-size: 21px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+a:link{
+    font-size: 16px;
+    font: black;
+}
+h1{
+    text-decoration: underline;
+}
+*{
+    text-align: center;
+}
